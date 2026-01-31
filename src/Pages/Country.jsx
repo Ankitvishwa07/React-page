@@ -1,7 +1,9 @@
 const Country = () => {
     return (
-        <div>
+        <div className="container">
             Country
         </div>
     )
 }
+
+export default Country

@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(14, 14, 14);
+}
+
+body *{
+    color: white;
+}
+
+.container{
+    margin-right: 300px;
+    margin-left: 300px;
+}
+
+.grid-two-col{
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+    grid-gap: 16px;
+}
+
+.flex-end{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 20px
+}
+
+.cursor{
+    cursor: pointer;
+}
+
+.no-underline{
+    text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.flex{
+    display: flex;
+    align-items: center;
+    padding: 0px;
+    margin: 0px;
+    gap: 8px;
+}
+
+.react-icon {
+  font-size: 28px;
+  color: #61dafb;
+  cursor: pointer;
+}
+
+
+

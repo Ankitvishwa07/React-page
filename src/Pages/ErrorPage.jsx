@@ -5,7 +5,7 @@ const ErrorPage = () => {
     const error = useRouteError();
     
     return (
-        <div>
+        <div className="container">
             <h1>Oops! some error occured</h1>
             {error && <p>error.data</p>}
         </div>

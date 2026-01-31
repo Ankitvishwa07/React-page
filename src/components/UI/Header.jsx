@@ -1,9 +1,39 @@
-const Header = () => {
-    return (
-        <div>
-            Header
-        </div>
-    )
-}
+import { NavLink } from "react-router-dom";
+import { GiWorld } from "react-icons/gi";
 
-export default Header
+const Header = () => {
+  return (
+    <header>
+      <div className="container white">
+        <div className="grid-two-col white">
+          <div className="flex">
+            <div>
+              <GiWorld className="react-icon"/>
+            </div>
+            <h1>WorldAtlas</h1>
+          </div>
+          <div>
+            <div className="flex-end cursor white ">
+              <NavLink to="/">
+                <p>Home</p>
+              </NavLink>
+
+              <NavLink to="/about">
+                <p>About</p>
+              </NavLink>
+
+              <NavLink to="/country">
+                <p>Country</p>
+              </NavLink>
+              <NavLink to="/contact">
+                <p>Contact</p>
+              </NavLink>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+  );
+};
+
+export default Header;
