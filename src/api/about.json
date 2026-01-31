@@ -1,0 +1,92 @@
+[
+  {
+    "country": "India",
+    "interesting_fact": "India is home to the world's highest cricket ground, located in Himachal Pradesh.",
+    "continent": "Asia"
+  },
+  {
+    "country": "Japan",
+    "interesting_fact": "Japan has more than 6,800 islands.",
+    "continent": "Asia"
+  },
+  {
+    "country": "Brazil",
+    "interesting_fact": "Brazil contains about 60% of the Amazon Rainforest.",
+    "continent": "South America"
+  },
+  {
+    "country": "Canada",
+    "interesting_fact": "Canada has more lakes than the rest of the world combined.",
+    "continent": "North America"
+  },
+  {
+    "country": "Australia",
+    "interesting_fact": "Australia is wider than the Moon.",
+    "continent": "Australia"
+  },
+  {
+    "country": "Germany",
+    "interesting_fact": "Germany has over 20,000 castles.",
+    "continent": "Europe"
+  },
+  {
+    "country": "Egypt",
+    "interesting_fact": "The Great Pyramid of Giza was the tallest man-made structure for over 3,800 years.",
+    "continent": "Africa"
+  },
+  {
+    "country": "South Africa",
+    "interesting_fact": "South Africa has three capital cities.",
+    "continent": "Africa"
+  },
+  {
+    "country": "Russia",
+    "interesting_fact": "Russia spans 11 time zones.",
+    "continent": "Europe / Asia"
+  },
+  {
+    "country": "France",
+    "interesting_fact": "France is the most visited country in the world.",
+    "continent": "Europe"
+  },
+  {
+    "country": "China",
+    "interesting_fact": "The Great Wall of China is over 21,000 km long.",
+    "continent": "Asia"
+  },
+  {
+    "country": "Mexico",
+    "interesting_fact": "Mexico introduced chocolate to the world.",
+    "continent": "North America"
+  },
+  {
+    "country": "Italy",
+    "interesting_fact": "Italy has more UNESCO World Heritage Sites than any other country.",
+    "continent": "Europe"
+  },
+  {
+    "country": "Argentina",
+    "interesting_fact": "Argentina is the birthplace of tango.",
+    "continent": "South America"
+  },
+  {
+    "country": "Norway",
+    "interesting_fact": "Norway experiences the Midnight Sun during summer.",
+    "continent": "Europe"
+  },
+  {
+    "country": "Thailand",
+    "interesting_fact": "Thailand was never colonized by a European power.",
+    "continent": "Asia"
+  },
+  {
+    "country": "Greece",
+    "interesting_fact": "Greece has around 6,000 islands and islets.",
+    "continent": "Europe"
+  },
+  {
+    "country": "New Zealand",
+    "interesting_fact": "New Zealand was the first country to give women the right to vote.",
+    "continent": "Australia"
+  }
+]

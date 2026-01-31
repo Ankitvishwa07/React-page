@@ -10,7 +10,9 @@ const Header = () => {
             <div>
               <GiWorld className="react-icon"/>
             </div>
-            <h1>WorldAtlas</h1>
+            <NavLink to="/">
+              <h1>WorldAtlas</h1>
+            </NavLink>
           </div>
           <div>
             <div className="flex-end cursor white ">

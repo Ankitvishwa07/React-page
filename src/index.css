@@ -7,8 +7,8 @@ body *{
 }
 
 .container{
-    margin-right: 300px;
-    margin-left: 300px;
+    margin-right: 320px;
+    margin-left: 320px;
 }
 
 .grid-two-col{
@@ -50,5 +50,100 @@ a {
   cursor: pointer;
 }
 
+.flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
+.grid-two-col1{
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+    grid-gap: 40px;
+}
 
+img{
+    width: 300px;
+    height: 200px
+}
+
+.home{
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.title{
+    text-align: center;
+}
+
+.grid-three-col{
+    display: flex;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.card{
+    width: 250px;
+    height: 120px;
+    border: 2px solid white;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.text-start{
+    text-align: start;
+}
+
+header{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.footer{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-top: 1px solid white
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 150px;
+}
+
+.form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid white;
+    width: 330px;
+    height: 350px;
+    border-radius: 10px;
+}
+
+.form-title{
+    text-align: center;
+}
+
+.form-input{
+    width: 160px;
+    height: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.form-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+}
+
+button{
+    color: black;
+    width: 100px;
+    height: 25px;
+}

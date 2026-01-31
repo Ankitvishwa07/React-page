@@ -1,8 +1,16 @@
+import Herosection from '../components/UI/Herosection';
+import About from './About'
+
 const Home = () => {
     return (
-        <div className="container white">
-            Home
-        </div>
+        <main>
+            <div className="white ">
+                <div>
+                    <Herosection/>
+                    <About/>
+                </div>
+            </div>
+        </main>
     )
 }
 
