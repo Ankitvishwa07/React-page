@@ -11,7 +11,7 @@ const Herosection = () => {
                     </p>
                 </div>
                 <div className="flex-end">
-                    <img src="https://wallpapers.com/images/featured/aesthetic-black-background-tnwxr9c6a3tkcjiw.jpg" alt="world" />
+                    <img src="/images/image.png" alt="world" />
                 </div>
             </div>
         </div>
