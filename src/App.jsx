@@ -6,6 +6,7 @@ import About from "./Pages/About";
 import Country from "./Pages/Country"
 import Contact from "./Pages/Contact"
 import { RouterProvider, createBrowserRouter } from "react-router-dom";
+import { CountryDetails } from "./components/Layout/CountryDetails";
 
 import './index.css'
 
@@ -32,6 +33,10 @@ function App() {
         {
           path: "contact",
           element: <Contact/>
+        },
+        {
+          path: "/country/:name",
+          element: <CountryDetails/>
         }
       ]
     }
